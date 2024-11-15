@@ -8,3 +8,18 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+
+
+###Table of contents
+
+About
+
+Portfolio Projects
+
+Education
+
+Certificates
+
+Contact
+
+Portfolio Projects
